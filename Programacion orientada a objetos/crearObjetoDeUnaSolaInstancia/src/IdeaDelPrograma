@@ -1,0 +1,8 @@
+En este programa se intentara hacer una clase
+que solo se instancia una vez sin necesidad de
+crear mas objetos a apartir de esta clase
+
+¿que se realizara?
+
+se creara una clase que simule una base datos que guardara informacion
+de persona pero la clase base de datos se creara una sola vez

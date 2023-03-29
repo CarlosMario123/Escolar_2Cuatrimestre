@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="777.0" prefWidth="1252.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.proyectopoofinal.Main">
+   <children>
+      <HBox prefHeight="84.0" prefWidth="1252.0" style="-fx-background-color: #74A3CF;">
+         <children>
+            <ImageView fitHeight="88.0" fitWidth="91.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../img/LogoUp.jpeg" />
+               </image>
+            </ImageView>
+         </children>
+      </HBox>
+      <HBox layoutY="701.0" prefHeight="76.0" prefWidth="1252.0" style="-fx-background-color: black;" />
+      <Label alignment="CENTER" layoutX="468.0" layoutY="259.0" prefHeight="51.0" prefWidth="317.0" style="-fx-font-size: 20; -fx-background-color: white; -fx-font-family: arial; -fx-text-fill: red; -fx-border-color: #74A3CF; -fx-border-radius: 75; -fx-border-width: 2; -fx-content-display: flex;" text="¿Que Desea Hacer?">
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor></Label>
+      <Button layoutX="69.0" layoutY="423.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="200.0" text="Button" />
+      <Button layoutX="660.0" layoutY="423.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="200.0" text="Button" />
+      <Button layoutX="360.0" layoutY="423.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="200.0" text="Button" />
+      <Button layoutX="958.0" layoutY="423.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="200.0" text="Button" />
+   </children>
+</AnchorPane>

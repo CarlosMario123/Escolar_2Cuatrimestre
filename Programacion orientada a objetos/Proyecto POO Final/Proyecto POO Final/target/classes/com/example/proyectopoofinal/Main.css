@@ -1,0 +1,6 @@
+.root{
+}
+#BoxLog{
+-fx-display:flex;
+-fx-flex-direction:column;
+}
